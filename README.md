@@ -11,6 +11,8 @@
 
 </div>
 
+> 🎮 **边学边练，强烈推荐**：[Learn Git Branching](https://learngitbranching.js.org/?locale=zh_CN) — 最棒的 Git 交互式学习平台，可视化操作分支，闯关式教学，玩着就学会了！
+
 ---
 
 ## 📋 目录
@@ -778,10 +780,12 @@ git blame -L 10,20 文件名
 
 ## 🔗 推荐资源
 
-- [Pro Git 官方电子书](https://git-scm.com/book/zh/v2)（免费，中文）
-- [GitHub 官方教程](https://docs.github.com/zh)
-- [Learn Git Branching](https://learngitbranching.js.org/)（交互式学习，强烈推荐）
-- [Oh Shit, Git!?!](https://ohshitgit.com/zh)（常见问题的简单解决方案）
+| 资源 | 说明 |
+|------|------|
+| [🎮 Learn Git Branching](https://learngitbranching.js.org/?locale=zh_CN) | **强烈推荐！** 交互式可视化学习，闯关模式，玩着就学会 Git 分支 |
+| [📘 Pro Git 官方电子书](https://git-scm.com/book/zh/v2) | 免费、权威、中文，系统学习必备 |
+| [🐙 GitHub 官方文档](https://docs.github.com/zh) | GitHub 使用教程，中文 |
+| [💩 Oh Shit, Git!?!](https://ohshitgit.com/zh) | 常见 Git 翻车现场及简单解决方案 |
 
 ---
 
